@@ -1,0 +1,21 @@
+
+#list-data li{
+	display: inline-block;
+	margin: 3px;
+	/*margin-border-color: red;*/
+}
+
+.bullet{
+	display: inline-block;
+	padding: 15px;
+	font-size: 20px;
+	border: 2px solid red;
+	margin: 10px;
+	align-content: center;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+li img{
+	max-width: 100%;
+	vertical-align: middle;
+}
